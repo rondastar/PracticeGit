@@ -328,8 +328,8 @@ Lets get some practice. You are going to
 2. `git checkout GreatFeature`
 3. Change, save, and commit the following text  
 
-What school are you attending?
-> What school are you going to? Change this, save and commit
+What school are you attending? RTC
+> What school are you going to? RTC
 
 4. `git checkout main`
 5. `git merge GreatFeature`
