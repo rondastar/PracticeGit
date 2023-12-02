@@ -156,6 +156,7 @@ And that's what it takes to use Termianl To Commit and Push your repo online.
 
 Type your favorite color below:
 > What's your favorite color: Green
+
 Then save.
 
 Now do the following in terminal, one command at a time
@@ -172,7 +173,7 @@ You should have seen what changes need to be staged, staged them, commited your 
 One more time
 
 What do you want to program when you graduate?
-> What do you want to program? Replace this and save
+> What do you want to program? Lots of ideas! Recipe app, energy grids, language learning tools, habit tracker
 
 Then
 ```
